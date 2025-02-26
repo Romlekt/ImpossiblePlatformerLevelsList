@@ -1,0 +1,17 @@
+{
+    "id": 100949083,
+    "name": "Shinzo",
+    "author": "Romlekt",
+    "creators": ["Romlekt"],
+    "verifier": "None",
+    "verification": "https://youtu.be/bHGyAlthGQc?si=ddEq46KCT783ACHq",
+    "password": "Unavailable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
