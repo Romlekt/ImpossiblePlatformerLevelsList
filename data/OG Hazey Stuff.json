@@ -1,0 +1,17 @@
+{
+    "id": 114210475,
+    "name": "OG Hazey Stuff",
+    "author": "samuraiaxolotl",
+    "creators": ["samuraiaxolotl"],
+    "verifier": "None",
+    "verification": "https://youtu.be/Hl7coPCzynE",
+    "password": "Unavailable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
