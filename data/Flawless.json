@@ -1,0 +1,17 @@
+{
+    "id": 57436521,
+    "name": "Flawless",
+    "author": "KEaliTgeo",
+    "creators": ["KEaliTgeo"],
+    "verifier": "None",
+    "verification": "https://youtu.be/qQxz9Jnupis?si=Mr_sDhgIVNefvDyt",
+    "password": "Unavailable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
