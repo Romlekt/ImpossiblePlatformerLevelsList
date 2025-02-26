@@ -1,5 +1,6 @@
 import { fetchLeaderboard } from '../content.js';
 import { localize } from '../util.js';
+import { toDisplay } from '../score.js';
 
 import Spinner from '../components/Spinner.js';
 
@@ -52,7 +53,7 @@ export default {
                                     <p>#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
-                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
+                                    <a class="type-label-lg" target="_blank" :href="score.link">({{toDisplay(score.time)}}){{ score.level }}</a>
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
