@@ -1,13 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Romlekt",
+        "link": "https://www.youtube.com/@romlekt"
+    },
+    {
+        "role": "co-owner",
+        "name": "Ko4kuma",
+        "link": "https://www.youtube.com/@ko4kuma"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Fuyu",
+        "link": "https://www.youtube.com/@fuyu_xwx"
     },
     {
         "role": "helper",
@@ -21,7 +26,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
