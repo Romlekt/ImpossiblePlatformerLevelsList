@@ -56,8 +56,9 @@ export async function fetchLeaderboard() {
             errs.push(err);
             return;
         }
+        let TAS;
         if (level.records){
-            let TAS = level.records[0].time;
+            TAS = level.records[0].time;
         }
         // Records
         level.records.forEach((record) => {
