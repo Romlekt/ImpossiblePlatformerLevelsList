@@ -5,6 +5,7 @@
     "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "None",
     "showcase": "https://www.youtube.com/watch?v=ISTl28wKSXc"
+    "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
         {
