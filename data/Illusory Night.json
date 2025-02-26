@@ -1,0 +1,17 @@
+{
+    "id": 107704160,
+    "name": "Illusory Night",
+    "author": "Ko4kuma",
+    "creators": ["Ko4kuma"],
+    "verifier": "None",
+    "verification": "https://youtu.be/LTcGbHX0bDA",
+    "password": "Unavailable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
