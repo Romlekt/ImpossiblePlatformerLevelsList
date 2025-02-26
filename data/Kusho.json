@@ -1,0 +1,17 @@
+{
+    "id": 108295333,
+    "name": "Kusho",
+    "author": "Romlekt",
+    "creators": ["Romlekt"],
+    "verifier": "None",
+    "verification": "https://youtu.be/S9BObezoEjA?si=goUzjorXmhuIghhx",
+    "password": "Unavailable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
