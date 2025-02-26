@@ -1,0 +1,17 @@
+{
+    "id": 57436521,
+    "name": "THE DUSKBREAKER",
+    "author": "Ko4kuma",
+    "creators": ["Ko4kuma"],
+    "verifier": "None",
+    "verification": "https://youtu.be/O3PIs6fwTKI?si=jBuA_SMREfjTTmxv",
+    "password": "Unavailable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
