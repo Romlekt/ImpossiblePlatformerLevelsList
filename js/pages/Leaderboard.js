@@ -79,5 +79,6 @@ export default {
     },
     methods: {
         localize,
+        toDisplay
     },
 };
