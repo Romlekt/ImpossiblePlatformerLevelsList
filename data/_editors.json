@@ -1,11 +1,11 @@
 [
     {
         "role": "owner",
-        "name": "Romlekt",
-        "link": "https://www.youtube.com/@romlekt"
+        "name": "Sear",
+        "link": "https://youtube.com/@seareez"
     },
     {
-        "role": "owner",
+        "role": "admin",
         "name": "Ko4kuma",
         "link": "https://www.youtube.com/@ko4kuma"
     },
@@ -13,6 +13,11 @@
         "role": "admin",
         "name": "Fuyu",
         "link": "https://www.youtube.com/@fuyu_xwx"
+    },
+    {
+        "role": "admin",
+        "name": "Romlekt",
+        "link": "https://www.youtube.com/@romlekt"
     },
     {
         "role": "helper",
