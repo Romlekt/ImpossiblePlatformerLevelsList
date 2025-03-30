@@ -6,7 +6,9 @@
     "video": "https://youtu.be/RIjPZS0fz_8",
     "records": [
         {
-
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "time": [0, 2, 23, 492]
         }
     ]
 }
