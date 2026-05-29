@@ -1,18 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "Sear",
+        "name": "Ko4kuma",
         "link": "https://youtube.com/@seareez"
     },
     {
-        "role": "admin",
-        "name": "Ko4kuma",
+        "role": "owner",
+        "name": "Sear",
         "link": "https://www.youtube.com/@Ko4kuma-Underscore"
     },
     {
         "role": "admin",
-        "name": "Fuyu",
-        "link": "https://www.youtube.com/@fuyu_xwx"
+        "name": "Sivy",
+        "link": "https://www.youtube.com/@RandomUselessDragon"
     },
     {
         "role": "admin",
@@ -21,13 +21,8 @@
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "2ItalianCats",
+        "link": "https://www.youtube.com/@2ItalianCats"
     },
     {
         "role": "dev",
